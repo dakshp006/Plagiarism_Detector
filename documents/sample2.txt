@@ -1,0 +1,1 @@
+Machine learning is a core branch of artificial intelligence that focuses on building applications that learn from data and improve their accuracy over time. Statistical algorithms analyze historical information to predict future outcomes efficiently. Python is the most popular programming language for machine learning and artificial intelligence development.
